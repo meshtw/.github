@@ -95,7 +95,7 @@ Follow us on social media platforms to stay updated with the latest info and gad
 ## Brandmark Concept
 
 <!-- markdownlint-disable -->
-<img src="assets/meshtw-brandmark.svg" alt="brandmark" width="256" height="64">
+<img src="assets/meshtw-brandmark-only.svg" alt="brandmark" width="256" height="64">
 <!-- markdownlint-enable -->
 
 The brandmark derives from the Meshtastic Project logo and evolves into a symbolic
