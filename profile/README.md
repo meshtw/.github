@@ -57,7 +57,7 @@ Follow us on social media platforms to stay updated with the latest info and gad
 ## 標誌意涵
 
 <!-- markdownlint-disable -->
-<img src="assets/meshtw-brandmark.svg" alt="brandmark" width="256" height="64">
+<img src="assets/meshtw-brandmark-only.svg" alt="brandmark" width="256" height="64">
 <!-- markdownlint-enable -->
 
 標誌源自 Meshtastic 專案標誌，並透過四個部分延伸，將識別深化為兼具台灣地理、方向與人文的象徵景觀。
